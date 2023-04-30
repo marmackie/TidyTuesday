@@ -63,6 +63,6 @@ for Womens Wheelchair Category",
 
 WinnersPlot
 
-# savges plot to output folder
+# saves plot to output folder
 ggsave(here("TidyTuesday6","output","WinnersPlot.png"),
        height = 5, width = 8)
